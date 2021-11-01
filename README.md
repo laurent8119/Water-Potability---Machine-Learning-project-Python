@@ -8,3 +8,4 @@ We are going to develop a prediction model of its potability in Python.
 
 This project has been carried out during The Bridge Data Science Bootcamp in september 2021.
 
+To visualize the notebook with the interactive plots, click on the link to open it with nbviewer in the top right corner of the notebook.
