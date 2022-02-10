@@ -1,4 +1,4 @@
-![imagen](https://centralalabamawellness.org/wp-content/uploads/2020/01/a-person-getting-a-glass-of-water-from-the-tap-rather-than-drinking-bottled-water-1030x579.jpg)
+<img src= "https://centralalabamawellness.org/wp-content/uploads/2020/01/a-person-getting-a-glass-of-water-from-the-tap-rather-than-drinking-bottled-water-1030x579.jpg" width="500"/>  
 
 # Water-Potability---Machine-Learning-project-Python
 
